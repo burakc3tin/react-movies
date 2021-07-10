@@ -1,0 +1,75 @@
+body{
+background-color: #EE6319;
+text-align: center;
+}
+
+.card{
+  font-weight: bold;
+  font-family: 'Josefin Sans', sans-serif;  border:none;
+  width: 18rem;
+  display: inline-block;
+}
+
+img {
+  border-radius: 30px;
+}
+
+h5{font-weight: bold;
+  font-size: 25px;
+}
+span{
+  background-color: black;
+  padding:5px;
+  border-radius: 30px;
+  font-weight: 300;
+  width: 30px;
+
+}
+.headText {
+  font-weight: bold;
+  font-size: 60px;
+  font-family: 'Shadows Into Light', cursive;
+ 
+}
+::-webkit-input-placeholder {
+  text-align: center;
+  color: #EE6319;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+  text-align: center;   color: #EE6319;
+ 
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+  text-align: center;    color: #EE6319;
+
+}
+
+:-ms-input-placeholder {  
+  text-align: center;   color: #EE6319;
+
+}
+input{
+  font-family: 'Noto Sans HK', sans-serif;
+  text-align:center;  color: #EE6319;
+
+}
+
+input[placeholder], [placeholder], *[placeholder] {
+  color: #EE6319 !important;
+}
+ a{  font-family: 'Noto Sans HK', sans-serif;
+
+   text-decoration: none;
+   color:white;
+   float: right;
+ }
+
+ a:hover{
+   color:black;
+ }
+
+.averageText{
+  color:white;
+}
