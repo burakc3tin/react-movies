@@ -7,7 +7,7 @@ This is a react project. After typing the name of the cinema in the search field
 ### `Live Project`
 
  [Click to go to live project
-](https://react-movies-burak.herokuapp.com/) 
+](https://filmdunyasi.netlify.app/) 
 
 
 ### `Screenshots`
