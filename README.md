@@ -12,6 +12,5 @@ This is a react project. After typing the name of the cinema in the search field
 
 ### `Screenshots`
 
-![alt text](https://i.hizliresim.com/dn55wrn.PNG)
-
-
+ 
+<img src="https://i.hizliresim.com/dn55wrn.PNG" width=50% height=50%>
